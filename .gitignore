@@ -1,2 +1,4 @@
+.ipynb_checkpoints
 .python-version
-gradio_cached_examples/**
+.scratch
+**/gradio_cached_examples
