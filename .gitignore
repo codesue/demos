@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.mypy_cache
 .python-version
 .scratch
 **/gradio_cached_examples
