@@ -1,5 +1,9 @@
+bokeh
+datasets
 lemminflect
 gradio
+pandas
+rich
 spacy
 torch
 transformers
